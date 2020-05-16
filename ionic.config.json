@@ -1,5 +1,7 @@
 {
   "name": "SAGApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
